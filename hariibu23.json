@@ -25,23 +25,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
-
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Hari Ibu",
+      "image_link": "https://frame.twibbonize.com/d87336d8-35ee-4667-af48-c6608da5d54e.png"
 
     }
   ],
@@ -49,62 +34,62 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 1",
+      "image_link": "https://frame.twibbonize.com/d87336d8-35ee-4667-af48-c6608da5d54e.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 2",
+      "image_link": "https://frame.twibbonize.com/2e60957c-117e-44e2-ae90-25aadad013d8.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 3",
+      "image_link": "https://frame.twibbonize.com/09c52a13-b2e2-4197-9d7b-7f66a73007d8.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 4",
+      "image_link": "https://frame.twibbonize.com/f16885c2-4ae1-4f21-be19-4a5891d9e4e4.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 5",
+      "image_link": "https://frame.twibbonize.com/de2a6bba-da96-40f8-ba5b-348463acb77f.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 6",
+      "image_link": "https://frame.twibbonize.com/783e0d73-8e15-42ae-a06a-c817eebee9e4.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 7",
+      "image_link": "https://frame.twibbonize.com/523cbc74-39f9-407e-9b87-f99667cc9b7c.png"
     },
     {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 8",
+      "image_link": "https://frame.twibbonize.com/35b9f55c-a0a8-4c3d-b79d-6af3a65aa528.png"
     },
     {
       "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 9",
+      "image_link": "https://frame.twibbonize.com/03d17976-b7d4-4b4d-9d1c-c5501ea42045.png"
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
+      "category": "Hari Ibu",
+      "title": "Hari Ibu 10",
       "image_link": "frame/vaksin.webp"
     }
 
