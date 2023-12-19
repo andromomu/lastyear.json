@@ -82,7 +82,7 @@
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
-      },
+	},  
     {
       "title": "MOD BUSSID R6 AKANG MV CVT BY REGA X GAMING",
       "image": "https://i.pinimg.com/564x/5b/2f/ca/5b2fcaa2774bd5710e5428d29b98db5a.jpg",
@@ -114,128 +114,37 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.bussidmod",
+      "title": "782_Kawasaki_Ninja_H2R",
+      "image": "https://files.libertycity.net/download/gtasa_motorcycle/thumbs/2021-04/kawasaki-ninja-h2r_1686007073_835562.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/782_Kawasaki_Ninja_H2R.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
+      "title": "762_Honda_CBR_1000RR",
+      "image": "https://img.gta5-mods.com/q75/images/honda-cbr1000rr-motors-garage-razor/85bbfb-BXXBNRH.jpg",
+      "category": "Bus",
+      "link_mods": "https://mapes.maybusid.my.id/mod/mtr/762_Honda_CBR_1000RR.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
-      "title": "Truck Perkasa Tangki by Ade Iskandar",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
-      "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
-      "name_livery": "Pertamina",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
       "name_livery2": "null",
       "link_livery2": "null"
     }
   ],
   "Audio": [
     {
-      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
-      "name": "Santri Njoso",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
-    },
-    {
-      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
-    },
-    {
-      "title_mp3": "Do'a Rajab",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
-    },
-    {
-      "title_mp3": "Allahul kaafi",
-      "name": "Bebiraira Channel",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
-    },
-    {
-      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
-      "name": "Shatibiyyah Studio",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
-    },
-    {
-      "title_mp3": "Train Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
-    },
-    {
-      "title_mp3": "Dixie Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
-    },
-    {
-      "title_mp3": "Clown Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+      "title_mp3": "null",
+      "name": "null",
+      "url_mp3": "null"
     }
   ],
   "Radio": [
     {
-      "title_radio": "Rodja 756 AM",
-      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
-    },
-    {
-      "title_radio": "Suara Al-Iman 846 AM",
-      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
-    },
-    {
-      "title_radio": "Tarbiyah Sunnah 1476 AM",
-      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
-    },
-    {
-      "title_radio": "kalam FM 100.6 Mhz",
-      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
-    },
-    {
-      "title_radio": "Mutiara Qu'an 1170 am",
-      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
-    },
-    {
-      "title_radio": "Hidayah 103,4 FM",
-      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
-    },
-    {
-      "title_radio": "Madinah FM 107,7 Mhz",
-      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
-    },
-    {
-      "title_radio": "Muadz 94.3 FM",
-      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
-    },
-    {
-      "title_radio": "Shahabat Muslim 107.7 FM",
-      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
-    },
-    {
-      "title_radio": "SKN Al-Bayaan 95 FM",
-      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
+      "title_radio": "null",
+      "url_radio": "null"
     }
   ]
 }
